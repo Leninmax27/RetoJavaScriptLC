@@ -27,3 +27,4 @@ Además, se incorporaron mejoras propias como la visualización de información 
 3. Abrir el archivo index.html en el navegador web. No se requiere instalación adicional, ya que el proyecto funciona únicamente con HTML, CSS y JavaScript puro.
 
 ## LINK DEL DEPLOY
+https://leninmax27.github.io/RetoJavaScriptLC/ 
