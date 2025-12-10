@@ -21,4 +21,9 @@ Además, se incorporaron mejoras propias como la visualización de información 
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/USUARIO/NOMBRE-DEL-REPO.git
+   git clone https://github.com/Leninmax27/RetoJavaScriptLC.git
+
+2. cd RetoJavaScriptLC
+3. Abrir el archivo index.html en el navegador web. No se requiere instalación adicional, ya que el proyecto funciona únicamente con HTML, CSS y JavaScript puro.
+
+## LINK DEL DEPLOY
