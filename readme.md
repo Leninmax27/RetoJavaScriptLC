@@ -3,7 +3,7 @@ Nombre: Lenin Andrey Cando Arequipa
 # Galería Interactiva con Flexbox Reto 5 – Reto JavaScript30
 
 ## Nombre del reto seleccionado
-Flex Panels Image Gallery (adaptado y mejorado)
+Flex Panels Image Gallery 
 
 ## Descripción del objetivo del reto
 Este proyecto consiste en la implementación de una galería interactiva de paneles utilizando únicamente HTML, CSS y JavaScript. El objetivo es replicar el funcionamiento del reto “Flex Panels Image Gallery” del curso JavaScript30, aplicando Flexbox para la distribución de los paneles y JavaScript para manejar la interacción, animaciones y contenido dinámico.  
